@@ -40,8 +40,9 @@ import cbir.utils.Retrieval;
 import cbir.utils.StatusBar;
 
 /**
+ * 
  * Image Retrieval Application v1.0 @ 2016
- * Class: GUI
+ * Class: Main GUI
  *
  * @author Shiwang Singh
  *
