@@ -12,6 +12,6 @@ developed with the help of JAVA SE Library. This framework is only for study pur
 ## Required Libraries for this framework
 
 1. JRE System Library (Java SE 8) 
-2. openCV-3.0 
+2. OpenCV-3.0 
 
 An online demo can be found at https://www.youtube.com/watch?v=AIHUqUe8DfA 
