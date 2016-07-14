@@ -14,6 +14,10 @@ import javax.swing.filechooser.FileNameExtensionFilter;
 
 import cbir.GUI;
 
+/*
+ * Class FileChooser.java
+ * @author : Shiwang Singh
+ */
 public class FileChooser
 
 {
