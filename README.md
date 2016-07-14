@@ -1,4 +1,4 @@
-# Image Retrieval Application v1.0 @2016
+# Image Retrieval Application v1.0 @ 2016
 
 This Application is an open source Java framework for content based image retrieval. This framework is
 developed with the help of JAVA SE Library. This framework is only for study purposes. 
